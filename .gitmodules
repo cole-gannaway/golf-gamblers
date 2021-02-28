@@ -1,0 +1,3 @@
+[submodule "golf-gamblers-front-end"]
+	path = golf-gamblers-front-end
+	url = https://github.com/cole-gannaway/golf-gamblers-front-end.git
