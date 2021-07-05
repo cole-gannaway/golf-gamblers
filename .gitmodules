@@ -7,6 +7,3 @@
 [submodule "golf-gamblers-model"]
 	path = golf-gamblers-model
 	url = https://github.com/cole-gannaway/golf-gamblers-model.git
-[submodule "golf-gamblers-api-tests"]
-	path = golf-gamblers-api-tests
-	url = https://github.com/cole-gannaway/golf-gamblers-api-tests.git
